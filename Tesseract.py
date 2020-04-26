@@ -1,3 +1,7 @@
+# GoogleMeetBot
+# By Adin Ackerman
+# Tesseract interface library
+
 import numpy as np
 import pytesseract
 import cv2

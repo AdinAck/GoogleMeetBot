@@ -1,3 +1,7 @@
+# GoogleMeetBot
+# By Adin Ackerman
+# Cleverbot interface library
+
 import cleverbotfree.cbfree
 import sys
 print("Initializing...")
